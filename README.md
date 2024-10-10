@@ -9,12 +9,19 @@ Project Structure
 The project is divided into three levels, each containing exercises. Each level demonstrates the use of annotations in Java:
 
 Assignment_S1.07._Annotations/
+
 ├── level_1
+
 │   ├── Exercise_1
+
 │   └── Exercise_2
+
 ├── level_2
+
 │   └── Exercise_1
+
 └── level_3
+
     └── Exercise_1
     
 Exercises Overview
